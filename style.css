@@ -1,0 +1,14 @@
+img{
+    width: 10%;
+    border-radius: 50%;
+    float: left;
+}
+
+p{
+    color: white;
+    padding-left: 50px;
+}
+
+body{
+    background-color: black;
+}
