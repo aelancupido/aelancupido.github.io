@@ -1,14 +1,17 @@
+/*image tag css*/
 img{
     width: 10%;
     border-radius: 50%;
     float: left;
 }
 
+/*paragraph tag css*/
 p{
     color: white;
     padding-left: 50px;
 }
 
+/*body tag css*/
 body{
     background-color: black;
 }
